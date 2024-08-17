@@ -34,7 +34,7 @@ if (isset($_POST['search'])) {
         <div class="col-md-4 mx-auto">
           <div class="txt text-center">
             <img src="logo.png" >
-            <h1>Trace X</h1>
+            <h1>ip-track-vip X</h1>
             <p>Scan Any IP Address for FREE</p>
           </div>
           <form class="form" action="" method="post">
@@ -199,11 +199,11 @@ if (isset($_POST['search'])) {
   </div>
   <div class="contx col-md-4">
     <div class="yeah">
-     <a href="https://instagram.com/0hacker_x0/" target="_blank" ><i class="fab fa-instagram"></i></a>
-     <a href="https://facebook.com/hackerxmr/" target="_blank" ><i class="fab fa-facebook"></i></a>
-     <a href="https://t.me/mrhackersx" target="_blank" ><i class="fab fa-telegram"></i></a>
-     <a href="https://github.com/MrHacker-X/" target="_blank" ><i class="fab fa-github"></i></a>
-     <a href="https://youtube.com/c/Sololex/" target="_blank" ><i class="fab fa-youtube"></i></a>
+     <a href="https://instagram.com/its_vip_krishna_gupta/" target="_blank" ><i class="fab fa-instagram"></i></a>
+     <a href="https://facebook.com/KrishnaGupta/" target="_blank" ><i class="fab fa-facebook"></i></a>
+     <a href="https://t.me/Vip-Coder_Bot" target="_blank" ><i class="fab fa-telegram"></i></a>
+     <a href="https://github.com/Guptaji iHacker/" target="_blank" ><i class="fab fa-github"></i></a>
+     <a href="https://youtube.com/c/@hackerguptajii/" target="_blank" ><i class="fab fa-youtube"></i></a>
    </div>
   </div>
 
