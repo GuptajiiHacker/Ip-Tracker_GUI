@@ -9,7 +9,7 @@ mkdir /$HOME/.Ip-Tracker_GUI
 mv .index.php /$HOME/.Ip-Tracker_GUI/index.php
 mv .style.css /$HOME/.Ip-Tracker_GUI/style.css
 mv .logo.png /$HOME/.Ip-Tracker_GUI/logo.png
-echo "php -S localhost:9999 -t /$HOME/.Ip-Tracker_GUI" >> tracex
+echo "php -S localhost:9999 -t /$HOME/.Ip-Tracker_GUI" >> ip-track
 mv tracex /data/data/com.termux/files/usr/bin
 chmod +x /data/data/com.termux/files/usr/bin/Ip-Tracker_GUI
 figlet DONE
