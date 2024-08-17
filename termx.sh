@@ -13,5 +13,5 @@ echo "php -S localhost:9999 -t /$HOME/.Ip-Tracker_GUI" >> ip-track
 mv tracex /data/data/com.termux/files/usr/bin
 chmod +x /data/data/com.termux/files/usr/bin/Ip-Tracker_GUI
 figlet DONE
-echo 'Installation is completed now you can launch TraceX-GUI by just typing tracex in your terminal'
+echo 'Installation is completed now you can launch TraceX-GUI by just typing ip-track in your terminal'
 rm -rfv ../Ip-Tracker_GUI
